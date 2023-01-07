@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'jenshin';
+    src: url(/global/fonts/jenshin.woff2) format('woff2');
+}
+
+.jenshin {
+    font-family: jenshin;
+}
+
+h1{
+    text-align: center;
+    color: #dc97ff;
+    font-size: 50px;
+}
+
+h2{
+    text-align: center;
+    font-size: 30px;
+}
+
+a{
+    color: #ac1dff;
+}
+
+pm{
+    color: #5eca5e;
+}
+
+hr{
+    border-color: #671992;
+}
+
+ds{
+    color: #7762D5;
+}
+
+l{
+    color: #7a7a7a;
+}
+
+o{
+    color: #ffed91;
+}
