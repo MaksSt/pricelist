@@ -1,6 +1,6 @@
 @font-face {
     font-family: "MiHoYo_SDK_Web";
-    src: url(/genshin.woff2);
+    src: url(./genshin.woff2);
 }
 body {
     margin: 0;
