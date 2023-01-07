@@ -1,0 +1,46 @@
+@font-face {
+    font-family: "MiHoYo_SDK_Web";
+    src: url(/genshin.woff2);
+}
+body {
+    margin: 0;
+    font-family: "MiHoYo_SDK_Web", sans-serif;
+    background: #181818;
+    color: #fff;
+    font-size: 2.66vh;
+}
+body>h1 {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    margin-bottom: 6vh;
+    padding: 4vh;
+    color: #dc97ff;
+    border-bottom: 3px solid #4c4350;
+}
+body>div {
+    width: fit-content;
+    margin: 0 auto;
+}
+body>div>div {
+    margin-bottom: 6vh;
+}
+body>div>div>p {
+    margin: 0;
+}
+
+.burple {
+    color: #7762D5;
+}
+.purple {
+    color: #ac1dff;
+}
+.gray {
+    color: #999;
+}
+.yellow {
+    color: #ffed91;
+}
+.green {
+    color: #5eca5e;
+}
